@@ -3,7 +3,7 @@
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+[![Downloads Stats][npm-downloads]][https://github.com/dawiddszewczyk/Flutter-simple-shop-app/edit/main/shop_application/]
 
 This aplication using firebase to get photos, and another information about product in shop. All elements are connectet with Cloud Firestore.  
 
