@@ -4,7 +4,7 @@
 
 This aplication using firebase to get photos, and another information about product in shop. All elements are connectet with Cloud Firestore.  
 
-![Screenshot_1614036797](https://user-images.githubusercontent.com/58904662/108784143-0293ea80-756f-11eb-8f7c-bc7188644a42.png)
+![Screenshot_1614036797](https://user-images.githubusercontent.com/58904662/108784143-0293ea80-756f-11eb-8f7c-bc7188644a42.png=250x250)
 
 ## Usage example
 
